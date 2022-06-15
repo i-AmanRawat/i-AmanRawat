@@ -10,19 +10,10 @@
 
 ![i-AmanRawat GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=i-AmanRawat&hide_border=true&theme=react-dark)
 
-
-
-<p align="center">
-    <h2 align="center">Visitors Count</h2>
-    <p align="center">
-      <img src="https://profile-counter.glitch.me/{i-AmanRawat}/count.svg" alt="VisitorCount">
-    </p>
-</p>
-
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <p align="center">
-   <img src="https://github.com/ishre-yash/i-AmanRawat/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/i-AmanRawat/i-AmanRawat/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <p align="center">
