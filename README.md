@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-   Show some ❤️ by starring some of the repositories!
+   Don't forget to show some ❤️ by starring some of the repositories!
 </p>
