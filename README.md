@@ -37,10 +37,12 @@
 
 </p>
 
-![i-AmanRawat GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=i-AmanRawat&hide_border=true&theme=react-dark)
-
 <!--  -->Language Card Layout
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-AmanRawat&langs_count=8)](https://github.com/i-AmanRawat/github-readme-stats)
+
+![i-AmanRawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+![i-AmanRawat GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=i-AmanRawat&hide_border=true&theme=react-dark)
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
