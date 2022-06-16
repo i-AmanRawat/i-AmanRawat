@@ -9,7 +9,8 @@
 </div>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-amanrawat" alt="i-amanrawat" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-AmanRawat&theme=algoliaz" alt="i-amanrawat" /></a> </p>
+
 
 - 🔭 I’m currently working on **Pyhton**
 
