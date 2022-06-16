@@ -20,7 +20,7 @@
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <p align="center">
-   <img src="https://github.com/i-AmanRawat/i-AmanRawat/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/ishre-yash/ishre-yash/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <p align="center">
