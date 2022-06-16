@@ -39,6 +39,9 @@
 
 ![i-AmanRawat GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=i-AmanRawat&hide_border=true&theme=react-dark)
 
+<!--  -->Language Card Layout
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <p align="center">
