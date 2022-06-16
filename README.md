@@ -1,4 +1,11 @@
 ### Hi there 👋
+<div align="center">
+<details>
+ <summary><b>Summary 👨‍💻</b></summary>
+<br>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+</details>
+   </div>
 
 <p align="center">
 
