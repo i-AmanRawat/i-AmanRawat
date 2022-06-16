@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **ON TWITTER @i-AmanRawat**
+<!-- - 📫 How to reach me **ON TWITTER @i-AmanRawat** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
