@@ -12,9 +12,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-AmanRawat&theme=algoliaz" alt="i-amanrawat" /></a> </p>
 
 
-- 🔭 I’m currently working on **Pyhton**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Pyhton**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Python**
 
